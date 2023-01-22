@@ -1,0 +1,1249 @@
+,Team 1,score,Team 2,year,Team1 goals,Team2 goals
+0,Twente,2–2,Inter Milan,2010/11,2,2
+1,Werder Bremen,2–2,Tottenham Hotspur,2010/11,2,2
+2,Tottenham Hotspur,4–1,Twente,2010/11,4,1
+3,Inter Milan,4–0,Werder Bremen,2010/11,4,0
+4,Inter Milan,4–3,Tottenham Hotspur,2010/11,4,3
+5,Twente,1–1,Werder Bremen,2010/11,1,1
+6,Tottenham Hotspur,3–1,Inter Milan,2010/11,3,1
+7,Werder Bremen,0–2,Twente,2010/11,0,2
+8,Inter Milan,1–0,Twente,2010/11,1,0
+9,Tottenham Hotspur,3–0,Werder Bremen,2010/11,3,0
+10,Twente,3–3,Tottenham Hotspur,2010/11,3,3
+11,Werder Bremen,3–0,Inter Milan,2010/11,3,0
+12,Lyon,1–0,Schalke 04,2010/11,1,0
+13,Benfica,2–0,Hapoel Tel Aviv,2010/11,2,0
+14,Hapoel Tel Aviv,1–3,Lyon,2010/11,1,3
+15,Schalke 04,2–0,Benfica,2010/11,2,0
+16,Schalke 04,3–1,Hapoel Tel Aviv,2010/11,3,1
+17,Lyon,2–0,Benfica,2010/11,2,0
+18,Hapoel Tel Aviv,0–0,Schalke 04,2010/11,0,0
+19,Benfica,4–3,Lyon,2010/11,4,3
+20,Schalke 04,3–0,Lyon,2010/11,3,0
+21,Hapoel Tel Aviv,3–0,Benfica,2010/11,3,0
+22,Lyon,2–2,Hapoel Tel Aviv,2010/11,2,2
+23,Benfica,1–2,Schalke 04,2010/11,1,2
+24,Manchester United,0–0,Rangers,2010/11,0,0
+25,Bursaspor,0–4,Valencia,2010/11,0,4
+26,Valencia,0–1,Manchester United,2010/11,0,1
+27,Rangers,1–0,Bursaspor,2010/11,1,0
+28,Rangers,1–1,Valencia,2010/11,1,1
+29,Manchester United,1–0,Bursaspor,2010/11,1,0
+30,Valencia,3–0,Rangers,2010/11,3,0
+31,Bursaspor,0–3,Manchester United,2010/11,0,3
+32,Rangers,0–1,Manchester United,2010/11,0,1
+33,Valencia,6–1,Bursaspor,2010/11,6,1
+34,Manchester United,1–1,Valencia,2010/11,1,1
+35,Bursaspor,1–1,Rangers,2010/11,1,1
+36,Barcelona,5–1,Panathinaikos,2010/11,5,1
+37,Copenhagen,1–0,Rubin Kazan,2010/11,1,0
+38,Rubin Kazan,1–1,Barcelona,2010/11,1,1
+39,Panathinaikos,0–2,Copenhagen,2010/11,0,2
+40,Panathinaikos,0–0,Rubin Kazan,2010/11,0,0
+41,Barcelona,2–0,Copenhagen,2010/11,2,0
+42,Rubin Kazan,0–0,Panathinaikos,2010/11,0,0
+43,Copenhagen,1–1,Barcelona,2010/11,1,1
+44,Rubin Kazan,1–0,Copenhagen,2010/11,1,0
+45,Panathinaikos,0–3,Barcelona,2010/11,0,3
+46,Barcelona,2–0,Rubin Kazan,2010/11,2,0
+47,Copenhagen,3–1,Panathinaikos,2010/11,3,1
+48,Bayern Munich,2–0,Roma,2010/11,2,0
+49,CFR Cluj,2–1,Basel,2010/11,2,1
+50,Basel,1–2,Bayern Munich,2010/11,1,2
+51,Roma,2–1,CFR Cluj,2010/11,2,1
+52,Roma,1–3,Basel,2010/11,1,3
+53,Bayern Munich,3–2,CFR Cluj,2010/11,3,2
+54,Basel,2–3,Roma,2010/11,2,3
+55,CFR Cluj,0–4,Bayern Munich,2010/11,0,4
+56,Roma,3–2,Bayern Munich,2010/11,3,2
+57,Basel,1–0,CFR Cluj,2010/11,1,0
+58,Bayern Munich,3–0,Basel,2010/11,3,0
+59,CFR Cluj,1–1,Roma,2010/11,1,1
+60,Marseille,0–1,Spartak Moscow,2010/11,0,1
+61,Žilina,1–4,Chelsea,2010/11,1,4
+62,Spartak Moscow,3–0,Žilina,2010/11,3,0
+63,Chelsea,2–0,Marseille,2010/11,2,0
+64,Spartak Moscow,0–2,Chelsea,2010/11,0,2
+65,Marseille,1–0,Žilina,2010/11,1,0
+66,Chelsea,4–1,Spartak Moscow,2010/11,4,1
+67,Žilina,0–7,Marseille,2010/11,0,7
+68,Spartak Moscow,0–3,Marseille,2010/11,0,3
+69,Chelsea,2–1,Žilina,2010/11,2,1
+70,Marseille,1–0,Chelsea,2010/11,1,0
+71,Žilina,1–2,Spartak Moscow,2010/11,1,2
+72,Real Madrid,2–0,Ajax,2010/11,2,0
+73,Milan,2–0,Auxerre,2010/11,2,0
+74,Auxerre,0–1,Real Madrid,2010/11,0,1
+75,Ajax,1–1,Milan,2010/11,1,1
+76,Ajax,2–1,Auxerre,2010/11,2,1
+77,Real Madrid,2–0,Milan,2010/11,2,0
+78,Auxerre,2–1,Ajax,2010/11,2,1
+79,Milan,2–2,Real Madrid,2010/11,2,2
+80,Ajax,0–4,Real Madrid,2010/11,0,4
+81,Auxerre,0–2,Milan,2010/11,0,2
+82,Real Madrid,4–0,Auxerre,2010/11,4,0
+83,Milan,0–2,Ajax,2010/11,0,2
+84,Arsenal,6–0,Braga,2010/11,6,0
+85,Shakhtar Donetsk,1–0,Partizan,2010/11,1,0
+86,Partizan,1–3,Arsenal,2010/11,1,3
+87,Braga,0–3,Shakhtar Donetsk,2010/11,0,3
+88,Braga,2–0,Partizan,2010/11,2,0
+89,Arsenal,5–1,Shakhtar Donetsk,2010/11,5,1
+90,Partizan,0–1,Braga,2010/11,0,1
+91,Shakhtar Donetsk,2–1,Arsenal,2010/11,2,1
+92,Braga,2–0,Arsenal,2010/11,2,0
+93,Partizan,0–3,Shakhtar Donetsk,2010/11,0,3
+94,Arsenal,3–1,Partizan,2010/11,3,1
+95,Shakhtar Donetsk,2–0,Braga,2010/11,2,0
+0,Manchester City,1–1,Napoli,2011/12,1,1
+1,Villarreal,0–2,Bayern Munich,2011/12,0,2
+2,Bayern Munich,2–0,Manchester City,2011/12,2,0
+3,Napoli,2–0,Villarreal,2011/12,2,0
+4,Napoli,1–1,Bayern Munich,2011/12,1,1
+5,Manchester City,2–1,Villarreal,2011/12,2,1
+6,Bayern Munich,3–2,Napoli,2011/12,3,2
+7,Villarreal,0–3,Manchester City,2011/12,0,3
+8,Napoli,2–1,Manchester City,2011/12,2,1
+9,Bayern Munich,3–1,Villarreal,2011/12,3,1
+10,Manchester City,2–0,Bayern Munich,2011/12,2,0
+11,Villarreal,0–2,Napoli,2011/12,0,2
+12,Lille,2–2,CSKA Moscow,2011/12,2,2
+13,Inter Milan,0–1,Trabzonspor,2011/12,0,1
+14,CSKA Moscow,2–3,Inter Milan,2011/12,2,3
+15,Trabzonspor,1–1,Lille,2011/12,1,1
+16,CSKA Moscow,3–0,Trabzonspor,2011/12,3,0
+17,Lille,0–1,Inter Milan,2011/12,0,1
+18,Trabzonspor,0–0,CSKA Moscow,2011/12,0,0
+19,Inter Milan,2–1,Lille,2011/12,2,1
+20,CSKA Moscow,0–2,Lille,2011/12,0,2
+21,Trabzonspor,1–1,Inter Milan,2011/12,1,1
+22,Lille,0–0,Trabzonspor,2011/12,0,0
+23,Inter Milan,1–2,CSKA Moscow,2011/12,1,2
+24,Basel,2–1,Oțelul Galați,2011/12,2,1
+25,Benfica,1–1,Manchester United,2011/12,1,1
+26,Manchester United,3–3,Basel,2011/12,3,3
+27,Oțelul Galați,0–1,Benfica,2011/12,0,1
+28,Oțelul Galați,0–2,Manchester United,2011/12,0,2
+29,Basel,0–2,Benfica,2011/12,0,2
+30,Manchester United,2–0,Oțelul Galați,2011/12,2,0
+31,Benfica,1–1,Basel,2011/12,1,1
+32,Oțelul Galați,2–3,Basel,2011/12,2,3
+33,Manchester United,2–2,Benfica,2011/12,2,2
+34,Basel,2–1,Manchester United,2011/12,2,1
+35,Benfica,1–0,Oțelul Galați,2011/12,1,0
+36,Dinamo Zagreb,0–1,Real Madrid,2011/12,0,1
+37,Ajax,0–0,Lyon,2011/12,0,0
+38,Lyon,2–0,Dinamo Zagreb,2011/12,2,0
+39,Real Madrid,3–0,Ajax,2011/12,3,0
+40,Real Madrid,4–0,Lyon,2011/12,4,0
+41,Dinamo Zagreb,0–2,Ajax,2011/12,0,2
+42,Lyon,0–2,Real Madrid,2011/12,0,2
+43,Ajax,4–0,Dinamo Zagreb,2011/12,4,0
+44,Real Madrid,6–2,Dinamo Zagreb,2011/12,6,2
+45,Lyon,0–0,Ajax,2011/12,0,0
+46,Dinamo Zagreb,1–7,Lyon,2011/12,1,7
+47,Ajax,0–3,Real Madrid,2011/12,0,3
+48,Chelsea,2–0,Bayer Leverkusen,2011/12,2,0
+49,Genk,0–0,Valencia,2011/12,0,0
+50,Valencia,1–1,Chelsea,2011/12,1,1
+51,Bayer Leverkusen,2–0,Genk,2011/12,2,0
+52,Bayer Leverkusen,2–1,Valencia,2011/12,2,1
+53,Chelsea,5–0,Genk,2011/12,5,0
+54,Valencia,3–1,Bayer Leverkusen,2011/12,3,1
+55,Genk,1–1,Chelsea,2011/12,1,1
+56,Bayer Leverkusen,2–1,Chelsea,2011/12,2,1
+57,Valencia,7–0,Genk,2011/12,7,0
+58,Chelsea,3–0,Valencia,2011/12,3,0
+59,Genk,1–1,Bayer Leverkusen,2011/12,1,1
+60,Olympiacos,0–1,Marseille,2011/12,0,1
+61,Borussia Dortmund,1–1,Arsenal,2011/12,1,1
+62,Arsenal,2–1,Olympiacos,2011/12,2,1
+63,Marseille,3–0,Borussia Dortmund,2011/12,3,0
+64,Marseille,0–1,Arsenal,2011/12,0,1
+65,Olympiacos,3–1,Borussia Dortmund,2011/12,3,1
+66,Arsenal,0–0,Marseille,2011/12,0,0
+67,Borussia Dortmund,1–0,Olympiacos,2011/12,1,0
+68,Marseille,0–1,Olympiacos,2011/12,0,1
+69,Arsenal,2–1,Borussia Dortmund,2011/12,2,1
+70,Olympiacos,3–1,Arsenal,2011/12,3,1
+71,Borussia Dortmund,2–3,Marseille,2011/12,2,3
+72,Porto,2–1,Shakhtar Donetsk,2011/12,2,1
+73,APOEL,2–1,Zenit Saint Petersburg,2011/12,2,1
+74,Zenit Saint Petersburg,3–1,Porto,2011/12,3,1
+75,Shakhtar Donetsk,1–1,APOEL,2011/12,1,1
+76,Shakhtar Donetsk,2–2,Zenit Saint Petersburg,2011/12,2,2
+77,Porto,1–1,APOEL,2011/12,1,1
+78,Zenit Saint Petersburg,1–0,Shakhtar Donetsk,2011/12,1,0
+79,APOEL,2–1,Porto,2011/12,2,1
+80,Zenit Saint Petersburg,0–0,APOEL,2011/12,0,0
+81,Shakhtar Donetsk,0–2,Porto,2011/12,0,2
+82,Porto,0–0,Zenit Saint Petersburg,2011/12,0,0
+83,APOEL,0–2,Shakhtar Donetsk,2011/12,0,2
+84,Barcelona,2–2,Milan,2011/12,2,2
+85,Viktoria Plzeň,1–1,BATE Borisov,2011/12,1,1
+86,BATE Borisov,0–5,Barcelona,2011/12,0,5
+87,Milan,2–0,Viktoria Plzeň,2011/12,2,0
+88,Milan,2–0,BATE Borisov,2011/12,2,0
+89,Barcelona,2–0,Viktoria Plzeň,2011/12,2,0
+90,BATE Borisov,1–1,Milan,2011/12,1,1
+91,Viktoria Plzeň,0–4,Barcelona,2011/12,0,4
+92,BATE Borisov,0–1,Viktoria Plzeň,2011/12,0,1
+93,Milan,2–3,Barcelona,2011/12,2,3
+94,Barcelona,4–0,BATE Borisov,2011/12,4,0
+95,Viktoria Plzeň,2–2,Milan,2011/12,2,2
+0,Dinamo Zagreb,0–2,Porto,2012/13,0,2
+1,Paris Saint-Germain,4–1,Dynamo Kyiv,2012/13,4,1
+2,Dynamo Kyiv,2–0,Dinamo Zagreb,2012/13,2,0
+3,Porto,1–0,Paris Saint-Germain,2012/13,1,0
+4,Porto,3–2,Dynamo Kyiv,2012/13,3,2
+5,Dinamo Zagreb,0–2,Paris Saint-Germain,2012/13,0,2
+6,Dynamo Kyiv,0–0,Porto,2012/13,0,0
+7,Paris Saint-Germain,4–0,Dinamo Zagreb,2012/13,4,0
+8,Porto,3–0,Dinamo Zagreb,2012/13,3,0
+9,Dynamo Kyiv,0–2,Paris Saint-Germain,2012/13,0,2
+10,Dinamo Zagreb,1–1,Dynamo Kyiv,2012/13,1,1
+11,Paris Saint-Germain,2–1,Porto,2012/13,2,1
+12,Montpellier,1–2,Arsenal,2012/13,1,2
+13,Olympiacos,1–2,Schalke 04,2012/13,1,2
+14,Schalke 04,2–2,Montpellier,2012/13,2,2
+15,Arsenal,3–1,Olympiacos,2012/13,3,1
+16,Arsenal,0–2,Schalke 04,2012/13,0,2
+17,Montpellier,1–2,Olympiacos,2012/13,1,2
+18,Schalke 04,2–2,Arsenal,2012/13,2,2
+19,Olympiacos,3–1,Montpellier,2012/13,3,1
+20,Arsenal,2–0,Montpellier,2012/13,2,0
+21,Schalke 04,1–0,Olympiacos,2012/13,1,0
+22,Montpellier,1–1,Schalke 04,2012/13,1,1
+23,Olympiacos,2–1,Arsenal,2012/13,2,1
+24,Málaga,3–0,Zenit Saint Petersburg,2012/13,3,0
+25,Milan,0–0,Anderlecht,2012/13,0,0
+26,Zenit Saint Petersburg,2–3,Milan,2012/13,2,3
+27,Anderlecht,0–3,Málaga,2012/13,0,3
+28,Zenit Saint Petersburg,1–0,Anderlecht,2012/13,1,0
+29,Málaga,1–0,Milan,2012/13,1,0
+30,Anderlecht,1–0,Zenit Saint Petersburg,2012/13,1,0
+31,Milan,1–1,Málaga,2012/13,1,1
+32,Zenit Saint Petersburg,2–2,Málaga,2012/13,2,2
+33,Anderlecht,1–3,Milan,2012/13,1,3
+34,Málaga,2–2,Anderlecht,2012/13,2,2
+35,Milan,0–1,Zenit Saint Petersburg,2012/13,0,1
+36,Borussia Dortmund,1–0,Ajax,2012/13,1,0
+37,Real Madrid,3–2,Manchester City,2012/13,3,2
+38,Manchester City,1–1,Borussia Dortmund,2012/13,1,1
+39,Ajax,1–4,Real Madrid,2012/13,1,4
+40,Ajax,3–1,Manchester City,2012/13,3,1
+41,Borussia Dortmund,2–1,Real Madrid,2012/13,2,1
+42,Manchester City,2–2,Ajax,2012/13,2,2
+43,Real Madrid,2–2,Borussia Dortmund,2012/13,2,2
+44,Ajax,1–4,Borussia Dortmund,2012/13,1,4
+45,Manchester City,1–1,Real Madrid,2012/13,1,1
+46,Borussia Dortmund,1–0,Manchester City,2012/13,1,0
+47,Real Madrid,4–1,Ajax,2012/13,4,1
+48,Shakhtar Donetsk,2–0,FC Nordsjælland,2012/13,2,0
+49,Chelsea,2–2,Juventus,2012/13,2,2
+50,Juventus,1–1,Shakhtar Donetsk,2012/13,1,1
+51,FC Nordsjælland,0–4,Chelsea,2012/13,0,4
+52,FC Nordsjælland,1–1,Juventus,2012/13,1,1
+53,Shakhtar Donetsk,2–1,Chelsea,2012/13,2,1
+54,Juventus,4–0,FC Nordsjælland,2012/13,4,0
+55,Chelsea,3–2,Shakhtar Donetsk,2012/13,3,2
+56,FC Nordsjælland,2–5,Shakhtar Donetsk,2012/13,2,5
+57,Juventus,3–0,Chelsea,2012/13,3,0
+58,Shakhtar Donetsk,0–1,Juventus,2012/13,0,1
+59,Chelsea,6–1,FC Nordsjælland,2012/13,6,1
+60,Lille,1–3,BATE Borisov,2012/13,1,3
+61,Bayern Munich,2–1,Valencia,2012/13,2,1
+62,Valencia,2–0,Lille,2012/13,2,0
+63,BATE Borisov,3–1,Bayern Munich,2012/13,3,1
+64,BATE Borisov,0–3,Valencia,2012/13,0,3
+65,Lille,0–1,Bayern Munich,2012/13,0,1
+66,Valencia,4–2,BATE Borisov,2012/13,4,2
+67,Bayern Munich,6–1,Lille,2012/13,6,1
+68,BATE Borisov,0–2,Lille,2012/13,0,2
+69,Valencia,1–1,Bayern Munich,2012/13,1,1
+70,Lille,0–1,Valencia,2012/13,0,1
+71,Bayern Munich,4–1,BATE Borisov,2012/13,4,1
+72,Barcelona,3–2,Spartak Moscow,2012/13,3,2
+73,Celtic,0–0,Benfica,2012/13,0,0
+74,Spartak Moscow,2–3,Celtic,2012/13,2,3
+75,Benfica,0–2,Barcelona,2012/13,0,2
+76,Spartak Moscow,2–1,Benfica,2012/13,2,1
+77,Barcelona,2–1,Celtic,2012/13,2,1
+78,Benfica,2–0,Spartak Moscow,2012/13,2,0
+79,Celtic,2–1,Barcelona,2012/13,2,1
+80,Spartak Moscow,0–3,Barcelona,2012/13,0,3
+81,Benfica,2–1,Celtic,2012/13,2,1
+82,Barcelona,0–0,Benfica,2012/13,0,0
+83,Celtic,2–1,Spartak Moscow,2012/13,2,1
+84,Manchester United,1–0,Galatasaray,2012/13,1,0
+85,Braga,0–2,CFR Cluj,2012/13,0,2
+86,CFR Cluj,1–2,Manchester United,2012/13,1,2
+87,Galatasaray,0–2,Braga,2012/13,0,2
+88,Galatasaray,1–1,CFR Cluj,2012/13,1,1
+89,Manchester United,3–2,Braga,2012/13,3,2
+90,CFR Cluj,1–3,Galatasaray,2012/13,1,3
+91,Braga,1–3,Manchester United,2012/13,1,3
+92,Galatasaray,1–0,Manchester United,2012/13,1,0
+93,CFR Cluj,3–1,Braga,2012/13,3,1
+94,Manchester United,0–1,CFR Cluj,2012/13,0,1
+95,Braga,1–2,Galatasaray,2012/13,1,2
+0,Manchester United,4–2,Bayer Leverkusen,2013/14,4,2
+1,Real Sociedad,0–2,Shakhtar Donetsk,2013/14,0,2
+2,Shakhtar Donetsk,1–1,Manchester United,2013/14,1,1
+3,Bayer Leverkusen,2–1,Real Sociedad,2013/14,2,1
+4,Bayer Leverkusen,4–0,Shakhtar Donetsk,2013/14,4,0
+5,Manchester United,1–0,Real Sociedad,2013/14,1,0
+6,Shakhtar Donetsk,0–0,Bayer Leverkusen,2013/14,0,0
+7,Real Sociedad,0–0,Manchester United,2013/14,0,0
+8,Bayer Leverkusen,0–5,Manchester United,2013/14,0,5
+9,Shakhtar Donetsk,4–0,Real Sociedad,2013/14,4,0
+10,Manchester United,1–0,Shakhtar Donetsk,2013/14,1,0
+11,Real Sociedad,0–1,Bayer Leverkusen,2013/14,0,1
+12,Galatasaray,1–6,Real Madrid,2013/14,1,6
+13,Copenhagen,1–1,Juventus,2013/14,1,1
+14,Juventus,2–2,Galatasaray,2013/14,2,2
+15,Real Madrid,4–0,Copenhagen,2013/14,4,0
+16,Real Madrid,2–1,Juventus,2013/14,2,1
+17,Galatasaray,3–1,Copenhagen,2013/14,3,1
+18,Juventus,2–2,Real Madrid,2013/14,2,2
+19,Copenhagen,1–0,Galatasaray,2013/14,1,0
+20,Real Madrid,4–1,Galatasaray,2013/14,4,1
+21,Juventus,3–1,Copenhagen,2013/14,3,1
+22,Galatasaray,1–0,Juventus,2013/14,1,0
+23,Copenhagen,0–2,Real Madrid,2013/14,0,2
+24,Benfica,2–0,Anderlecht,2013/14,2,0
+25,Olympiacos,1–4,Paris Saint-Germain,2013/14,1,4
+26,Paris Saint-Germain,3–0,Benfica,2013/14,3,0
+27,Anderlecht,0–3,Olympiacos,2013/14,0,3
+28,Anderlecht,0–5,Paris Saint-Germain,2013/14,0,5
+29,Benfica,1–1,Olympiacos,2013/14,1,1
+30,Paris Saint-Germain,1–1,Anderlecht,2013/14,1,1
+31,Olympiacos,1–0,Benfica,2013/14,1,0
+32,Anderlecht,2–3,Benfica,2013/14,2,3
+33,Paris Saint-Germain,2–1,Olympiacos,2013/14,2,1
+34,Benfica,2–1,Paris Saint-Germain,2013/14,2,1
+35,Olympiacos,3–1,Anderlecht,2013/14,3,1
+36,Bayern Munich,3–0,CSKA Moscow,2013/14,3,0
+37,Viktoria Plzeň,0–3,Manchester City,2013/14,0,3
+38,CSKA Moscow,3–2,Viktoria Plzeň,2013/14,3,2
+39,Manchester City,1–3,Bayern Munich,2013/14,1,3
+40,CSKA Moscow,1–2,Manchester City,2013/14,1,2
+41,Bayern Munich,5–0,Viktoria Plzeň,2013/14,5,0
+42,Manchester City,5–2,CSKA Moscow,2013/14,5,2
+43,Viktoria Plzeň,0–1,Bayern Munich,2013/14,0,1
+44,CSKA Moscow,1–3,Bayern Munich,2013/14,1,3
+45,Manchester City,4–2,Viktoria Plzeň,2013/14,4,2
+46,Bayern Munich,2–3,Manchester City,2013/14,2,3
+47,Viktoria Plzeň,2–1,CSKA Moscow,2013/14,2,1
+48,Schalke 04,3–0,Steaua București,2013/14,3,0
+49,Chelsea,1–2,Basel,2013/14,1,2
+50,Basel,0–1,Schalke 04,2013/14,0,1
+51,Steaua București,0–4,Chelsea,2013/14,0,4
+52,Steaua București,1–1,Basel,2013/14,1,1
+53,Schalke 04,0–3,Chelsea,2013/14,0,3
+54,Basel,1–1,Steaua București,2013/14,1,1
+55,Chelsea,3–0,Schalke 04,2013/14,3,0
+56,Steaua București,0–0,Schalke 04,2013/14,0,0
+57,Basel,1–0,Chelsea,2013/14,1,0
+58,Schalke 04,2–0,Basel,2013/14,2,0
+59,Chelsea,1–0,Steaua București,2013/14,1,0
+60,Marseille,1–2,Arsenal,2013/14,1,2
+61,Napoli,2–1,Borussia Dortmund,2013/14,2,1
+62,Borussia Dortmund,3–0,Marseille,2013/14,3,0
+63,Arsenal,2–0,Napoli,2013/14,2,0
+64,Arsenal,1–2,Borussia Dortmund,2013/14,1,2
+65,Marseille,1–2,Napoli,2013/14,1,2
+66,Borussia Dortmund,0–1,Arsenal,2013/14,0,1
+67,Napoli,3–2,Marseille,2013/14,3,2
+68,Arsenal,2–0,Marseille,2013/14,2,0
+69,Borussia Dortmund,3–1,Napoli,2013/14,3,1
+70,Marseille,1–2,Borussia Dortmund,2013/14,1,2
+71,Napoli,2–0,Arsenal,2013/14,2,0
+72,Austria Wien,0–1,Porto,2013/14,0,1
+73,Atlético Madrid,3–1,Zenit Saint Petersburg,2013/14,3,1
+74,Zenit Saint Petersburg,0–0,Austria Wien,2013/14,0,0
+75,Porto,1–2,Atlético Madrid,2013/14,1,2
+76,Porto,0–1,Zenit Saint Petersburg,2013/14,0,1
+77,Austria Wien,0–3,Atlético Madrid,2013/14,0,3
+78,Zenit Saint Petersburg,1–1,Porto,2013/14,1,1
+79,Atlético Madrid,4–0,Austria Wien,2013/14,4,0
+80,Zenit Saint Petersburg,1–1,Atlético Madrid,2013/14,1,1
+81,Porto,1–1,Austria Wien,2013/14,1,1
+82,Austria Wien,4–1,Zenit Saint Petersburg,2013/14,4,1
+83,Atlético Madrid,2–0,Porto,2013/14,2,0
+84,Milan,2–0,Celtic,2013/14,2,0
+85,Barcelona,4–0,Ajax,2013/14,4,0
+86,Ajax,1–1,Milan,2013/14,1,1
+87,Celtic,0–1,Barcelona,2013/14,0,1
+88,Celtic,2–1,Ajax,2013/14,2,1
+89,Milan,1–1,Barcelona,2013/14,1,1
+90,Ajax,1–0,Celtic,2013/14,1,0
+91,Barcelona,3–1,Milan,2013/14,3,1
+92,Celtic,0–3,Milan,2013/14,0,3
+93,Ajax,2–1,Barcelona,2013/14,2,1
+94,Milan,0–0,Ajax,2013/14,0,0
+95,Barcelona,6–1,Celtic,2013/14,6,1
+0,Olympiacos,3–2,Atlético Madrid,2014/15,3,2
+1,Juventus,2–0,Malmö FF,2014/15,2,0
+2,Malmö FF,2–0,Olympiacos,2014/15,2,0
+3,Atlético Madrid,1–0,Juventus,2014/15,1,0
+4,Atlético Madrid,5–0,Malmö FF,2014/15,5,0
+5,Olympiacos,1–0,Juventus,2014/15,1,0
+6,Malmö FF,0–2,Atlético Madrid,2014/15,0,2
+7,Juventus,3–2,Olympiacos,2014/15,3,2
+8,Atlético Madrid,4–0,Olympiacos,2014/15,4,0
+9,Malmö FF,0–2,Juventus,2014/15,0,2
+10,Olympiacos,4–2,Malmö FF,2014/15,4,2
+11,Juventus,0–0,Atlético Madrid,2014/15,0,0
+12,Liverpool,2–1,Ludogorets Razgrad,2014/15,2,1
+13,Real Madrid,5–1,Basel,2014/15,5,1
+14,Basel,1–0,Liverpool,2014/15,1,0
+15,Ludogorets Razgrad,1–2,Real Madrid,2014/15,1,2
+16,Ludogorets Razgrad,1–0,Basel,2014/15,1,0
+17,Liverpool,0–3,Real Madrid,2014/15,0,3
+18,Basel,4–0,Ludogorets Razgrad,2014/15,4,0
+19,Real Madrid,1–0,Liverpool,2014/15,1,0
+20,Ludogorets Razgrad,2–2,Liverpool,2014/15,2,2
+21,Basel,0–1,Real Madrid,2014/15,0,1
+22,Liverpool,1–1,Basel,2014/15,1,1
+23,Real Madrid,4–0,Ludogorets Razgrad,2014/15,4,0
+24,Monaco,1–0,Bayer Leverkusen,2014/15,1,0
+25,Benfica,0–2,Zenit Saint Petersburg,2014/15,0,2
+26,Zenit Saint Petersburg,0–0,Monaco,2014/15,0,0
+27,Bayer Leverkusen,3–1,Benfica,2014/15,3,1
+28,Bayer Leverkusen,2–0,Zenit Saint Petersburg,2014/15,2,0
+29,Monaco,0–0,Benfica,2014/15,0,0
+30,Zenit Saint Petersburg,1–2,Bayer Leverkusen,2014/15,1,2
+31,Benfica,1–0,Monaco,2014/15,1,0
+32,Zenit Saint Petersburg,1–0,Benfica,2014/15,1,0
+33,Bayer Leverkusen,0–1,Monaco,2014/15,0,1
+34,Monaco,2–0,Zenit Saint Petersburg,2014/15,2,0
+35,Benfica,0–0,Bayer Leverkusen,2014/15,0,0
+36,Galatasaray,1–1,Anderlecht,2014/15,1,1
+37,Borussia Dortmund,2–0,Arsenal,2014/15,2,0
+38,Arsenal,4–1,Galatasaray,2014/15,4,1
+39,Anderlecht,0–3,Borussia Dortmund,2014/15,0,3
+40,Anderlecht,1–2,Arsenal,2014/15,1,2
+41,Galatasaray,0–4,Borussia Dortmund,2014/15,0,4
+42,Arsenal,3–3,Anderlecht,2014/15,3,3
+43,Borussia Dortmund,4–1,Galatasaray,2014/15,4,1
+44,Anderlecht,2–0,Galatasaray,2014/15,2,0
+45,Arsenal,2–0,Borussia Dortmund,2014/15,2,0
+46,Galatasaray,1–4,Arsenal,2014/15,1,4
+47,Borussia Dortmund,1–1,Anderlecht,2014/15,1,1
+48,Roma,5–1,CSKA Moscow,2014/15,5,1
+49,Bayern Munich,1–0,Manchester City,2014/15,1,0
+50,CSKA Moscow,0–1,Bayern Munich,2014/15,0,1
+51,Manchester City,1–1,Roma,2014/15,1,1
+52,CSKA Moscow,2–2,Manchester City,2014/15,2,2
+53,Roma,1–7,Bayern Munich,2014/15,1,7
+54,Manchester City,1–2,CSKA Moscow,2014/15,1,2
+55,Bayern Munich,2–0,Roma,2014/15,2,0
+56,CSKA Moscow,1–1,Roma,2014/15,1,1
+57,Manchester City,3–2,Bayern Munich,2014/15,3,2
+58,Roma,0–2,Manchester City,2014/15,0,2
+59,Bayern Munich,3–0,CSKA Moscow,2014/15,3,0
+60,Barcelona,1–0,APOEL,2014/15,1,0
+61,Ajax,1–1,Paris Saint-Germain,2014/15,1,1
+62,Paris Saint-Germain,3–2,Barcelona,2014/15,3,2
+63,APOEL,1–1,Ajax,2014/15,1,1
+64,APOEL,0–1,Paris Saint-Germain,2014/15,0,1
+65,Barcelona,3–1,Ajax,2014/15,3,1
+66,Paris Saint-Germain,1–0,APOEL,2014/15,1,0
+67,Ajax,0–2,Barcelona,2014/15,0,2
+68,APOEL,0–4,Barcelona,2014/15,0,4
+69,Paris Saint-Germain,3–1,Ajax,2014/15,3,1
+70,Barcelona,3–1,Paris Saint-Germain,2014/15,3,1
+71,Ajax,4–0,APOEL,2014/15,4,0
+72,Chelsea,1–1,Schalke 04,2014/15,1,1
+73,Maribor,1–1,Sporting CP,2014/15,1,1
+74,Sporting CP,0–1,Chelsea,2014/15,0,1
+75,Schalke 04,1–1,Maribor,2014/15,1,1
+76,Schalke 04,4–3,Sporting CP,2014/15,4,3
+77,Chelsea,6–0,Maribor,2014/15,6,0
+78,Sporting CP,4–2,Schalke 04,2014/15,4,2
+79,Maribor,1–1,Chelsea,2014/15,1,1
+80,Schalke 04,0–5,Chelsea,2014/15,0,5
+81,Sporting CP,3–1,Maribor,2014/15,3,1
+82,Chelsea,3–1,Sporting CP,2014/15,3,1
+83,Maribor,0–1,Schalke 04,2014/15,0,1
+84,Porto,6–0,BATE Borisov,2014/15,6,0
+85,Athletic Bilbao,0–0,Shakhtar Donetsk,2014/15,0,0
+86,Shakhtar Donetsk,2–2,Porto,2014/15,2,2
+87,BATE Borisov,2–1,Athletic Bilbao,2014/15,2,1
+88,BATE Borisov,0–7,Shakhtar Donetsk,2014/15,0,7
+89,Porto,2–1,Athletic Bilbao,2014/15,2,1
+90,Shakhtar Donetsk,5–0,BATE Borisov,2014/15,5,0
+91,Athletic Bilbao,0–2,Porto,2014/15,0,2
+92,BATE Borisov,0–3,Porto,2014/15,0,3
+93,Shakhtar Donetsk,0–1,Athletic Bilbao,2014/15,0,1
+94,Porto,1–1,Shakhtar Donetsk,2014/15,1,1
+95,Athletic Bilbao,2–0,BATE Borisov,2014/15,2,0
+0,Paris Saint-Germain,2–0,Malmö FF,2015/16,2,0
+1,Real Madrid,4–0,Shakhtar Donetsk,2015/16,4,0
+2,Shakhtar Donetsk,0–3,Paris Saint-Germain,2015/16,0,3
+3,Malmö FF,0–2,Real Madrid,2015/16,0,2
+4,Malmö FF,1–0,Shakhtar Donetsk,2015/16,1,0
+5,Paris Saint-Germain,0–0,Real Madrid,2015/16,0,0
+6,Shakhtar Donetsk,4–0,Malmö FF,2015/16,4,0
+7,Real Madrid,1–0,Paris Saint-Germain,2015/16,1,0
+8,Malmö FF,0–5,Paris Saint-Germain,2015/16,0,5
+9,Shakhtar Donetsk,3–4,Real Madrid,2015/16,3,4
+10,Paris Saint-Germain,2–0,Shakhtar Donetsk,2015/16,2,0
+11,Real Madrid,8–0,Malmö FF,2015/16,8,0
+12,Wolfsburg,1–0,CSKA Moscow,2015/16,1,0
+13,PSV Eindhoven,2–1,Manchester United,2015/16,2,1
+14,Manchester United,2–1,Wolfsburg,2015/16,2,1
+15,CSKA Moscow,3–2,PSV Eindhoven,2015/16,3,2
+16,CSKA Moscow,1–1,Manchester United,2015/16,1,1
+17,Wolfsburg,2–0,PSV Eindhoven,2015/16,2,0
+18,Manchester United,1–0,CSKA Moscow,2015/16,1,0
+19,PSV Eindhoven,2–0,Wolfsburg,2015/16,2,0
+20,CSKA Moscow,0–2,Wolfsburg,2015/16,0,2
+21,Manchester United,0–0,PSV Eindhoven,2015/16,0,0
+22,Wolfsburg,3–2,Manchester United,2015/16,3,2
+23,PSV Eindhoven,2–1,CSKA Moscow,2015/16,2,1
+24,Galatasaray,0–2,Atlético Madrid,2015/16,0,2
+25,Benfica,2–0,Astana,2015/16,2,0
+26,Astana,2–2,Galatasaray,2015/16,2,2
+27,Atlético Madrid,1–2,Benfica,2015/16,1,2
+28,Atlético Madrid,4–0,Astana,2015/16,4,0
+29,Galatasaray,2–1,Benfica,2015/16,2,1
+30,Astana,0–0,Atlético Madrid,2015/16,0,0
+31,Benfica,2–1,Galatasaray,2015/16,2,1
+32,Astana,2–2,Benfica,2015/16,2,2
+33,Atlético Madrid,2–0,Galatasaray,2015/16,2,0
+34,Galatasaray,1–1,Astana,2015/16,1,1
+35,Benfica,1–2,Atlético Madrid,2015/16,1,2
+36,Manchester City,1–2,Juventus,2015/16,1,2
+37,Sevilla,3–0,Borussia Mönchengladbach,2015/16,3,0
+38,Borussia Mönchengladbach,1–2,Manchester City,2015/16,1,2
+39,Juventus,2–0,Sevilla,2015/16,2,0
+40,Juventus,0–0,Borussia Mönchengladbach,2015/16,0,0
+41,Manchester City,2–1,Sevilla,2015/16,2,1
+42,Borussia Mönchengladbach,1–1,Juventus,2015/16,1,1
+43,Sevilla,1–3,Manchester City,2015/16,1,3
+44,Juventus,1–0,Manchester City,2015/16,1,0
+45,Borussia Mönchengladbach,4–2,Sevilla,2015/16,4,2
+46,Manchester City,4–2,Borussia Mönchengladbach,2015/16,4,2
+47,Sevilla,1–0,Juventus,2015/16,1,0
+48,Bayer Leverkusen,4–1,BATE Borisov,2015/16,4,1
+49,Roma,1–1,Barcelona,2015/16,1,1
+50,Barcelona,2–1,Bayer Leverkusen,2015/16,2,1
+51,BATE Borisov,3–2,Roma,2015/16,3,2
+52,BATE Borisov,0–2,Barcelona,2015/16,0,2
+53,Bayer Leverkusen,4–4,Roma,2015/16,4,4
+54,Barcelona,3–0,BATE Borisov,2015/16,3,0
+55,Roma,3–2,Bayer Leverkusen,2015/16,3,2
+56,BATE Borisov,1–1,Bayer Leverkusen,2015/16,1,1
+57,Barcelona,6–1,Roma,2015/16,6,1
+58,Bayer Leverkusen,1–1,Barcelona,2015/16,1,1
+59,Roma,0–0,BATE Borisov,2015/16,0,0
+60,Dinamo Zagreb,2–1,Arsenal,2015/16,2,1
+61,Olympiacos,0–3,Bayern Munich,2015/16,0,3
+62,Bayern Munich,5–0,Dinamo Zagreb,2015/16,5,0
+63,Arsenal,2–3,Olympiacos,2015/16,2,3
+64,Arsenal,2–0,Bayern Munich,2015/16,2,0
+65,Dinamo Zagreb,0–1,Olympiacos,2015/16,0,1
+66,Bayern Munich,5–1,Arsenal,2015/16,5,1
+67,Olympiacos,2–1,Dinamo Zagreb,2015/16,2,1
+68,Arsenal,3–0,Dinamo Zagreb,2015/16,3,0
+69,Bayern Munich,4–0,Olympiacos,2015/16,4,0
+70,Dinamo Zagreb,0–2,Bayern Munich,2015/16,0,2
+71,Olympiacos,0–3,Arsenal,2015/16,0,3
+72,Dynamo Kyiv,2–2,Porto,2015/16,2,2
+73,Chelsea,4–0,Maccabi Tel Aviv,2015/16,4,0
+74,Maccabi Tel Aviv,0–2,Dynamo Kyiv,2015/16,0,2
+75,Porto,2–1,Chelsea,2015/16,2,1
+76,Porto,2–0,Maccabi Tel Aviv,2015/16,2,0
+77,Dynamo Kyiv,0–0,Chelsea,2015/16,0,0
+78,Maccabi Tel Aviv,1–3,Porto,2015/16,1,3
+79,Chelsea,2–1,Dynamo Kyiv,2015/16,2,1
+80,Porto,0–2,Dynamo Kyiv,2015/16,0,2
+81,Maccabi Tel Aviv,0–4,Chelsea,2015/16,0,4
+82,Dynamo Kyiv,1–0,Maccabi Tel Aviv,2015/16,1,0
+83,Chelsea,2–0,Porto,2015/16,2,0
+84,Valencia,2–3,Zenit Saint Petersburg,2015/16,2,3
+85,Gent,1–1,Lyon,2015/16,1,1
+86,Lyon,0–1,Valencia,2015/16,0,1
+87,Zenit Saint Petersburg,2–1,Gent,2015/16,2,1
+88,Zenit Saint Petersburg,3–1,Lyon,2015/16,3,1
+89,Valencia,2–1,Gent,2015/16,2,1
+90,Lyon,0–2,Zenit Saint Petersburg,2015/16,0,2
+91,Gent,1–0,Valencia,2015/16,1,0
+92,Zenit Saint Petersburg,2–0,Valencia,2015/16,2,0
+93,Lyon,1–2,Gent,2015/16,1,2
+94,Valencia,0–2,Lyon,2015/16,0,2
+95,Gent,2–1,Zenit Saint Petersburg,2015/16,2,1
+0,Paris Saint-Germain,1–1,Arsenal,2016/17,1,1
+1,Basel,1–1,Ludogorets Razgrad,2016/17,1,1
+2,Ludogorets Razgrad,1–3,Paris Saint-Germain,2016/17,1,3
+3,Arsenal,2–0,Basel,2016/17,2,0
+4,Arsenal,6–0,Ludogorets Razgrad,2016/17,6,0
+5,Paris Saint-Germain,3–0,Basel,2016/17,3,0
+6,Ludogorets Razgrad,2–3,Arsenal,2016/17,2,3
+7,Basel,1–2,Paris Saint-Germain,2016/17,1,2
+8,Arsenal,2–2,Paris Saint-Germain,2016/17,2,2
+9,Ludogorets Razgrad,0–0,Basel,2016/17,0,0
+10,Paris Saint-Germain,2–2,Ludogorets Razgrad,2016/17,2,2
+11,Basel,1–4,Arsenal,2016/17,1,4
+12,Dynamo Kyiv,1–2,Napoli,2016/17,1,2
+13,Benfica,1–1,Beşiktaş,2016/17,1,1
+14,Beşiktaş,1–1,Dynamo Kyiv,2016/17,1,1
+15,Napoli,4–2,Benfica,2016/17,4,2
+16,Napoli,2–3,Beşiktaş,2016/17,2,3
+17,Dynamo Kyiv,0–2,Benfica,2016/17,0,2
+18,Beşiktaş,1–1,Napoli,2016/17,1,1
+19,Benfica,1–0,Dynamo Kyiv,2016/17,1,0
+20,Beşiktaş,3–3,Benfica,2016/17,3,3
+21,Napoli,0–0,Dynamo Kyiv,2016/17,0,0
+22,Dynamo Kyiv,6–0,Beşiktaş,2016/17,6,0
+23,Benfica,1–2,Napoli,2016/17,1,2
+24,Barcelona,7–0,Celtic,2016/17,7,0
+25,Manchester City,4–0,Borussia Mönchengladbach,2016/17,4,0
+26,Borussia Mönchengladbach,1–2,Barcelona,2016/17,1,2
+27,Celtic,3–3,Manchester City,2016/17,3,3
+28,Celtic,0–2,Borussia Mönchengladbach,2016/17,0,2
+29,Barcelona,4–0,Manchester City,2016/17,4,0
+30,Borussia Mönchengladbach,1–1,Celtic,2016/17,1,1
+31,Manchester City,3–1,Barcelona,2016/17,3,1
+32,Celtic,0–2,Barcelona,2016/17,0,2
+33,Borussia Mönchengladbach,1–1,Manchester City,2016/17,1,1
+34,Barcelona,4–0,Borussia Mönchengladbach,2016/17,4,0
+35,Manchester City,1–1,Celtic,2016/17,1,1
+36,Bayern Munich,5–0,Rostov,2016/17,5,0
+37,PSV Eindhoven,0–1,Atlético Madrid,2016/17,0,1
+38,Atlético Madrid,1–0,Bayern Munich,2016/17,1,0
+39,Rostov,2–2,PSV Eindhoven,2016/17,2,2
+40,Rostov,0–1,Atlético Madrid,2016/17,0,1
+41,Bayern Munich,4–1,PSV Eindhoven,2016/17,4,1
+42,Atlético Madrid,2–1,Rostov,2016/17,2,1
+43,PSV Eindhoven,1–2,Bayern Munich,2016/17,1,2
+44,Rostov,3–2,Bayern Munich,2016/17,3,2
+45,Atlético Madrid,2–0,PSV Eindhoven,2016/17,2,0
+46,Bayern Munich,1–0,Atlético Madrid,2016/17,1,0
+47,PSV Eindhoven,0–0,Rostov,2016/17,0,0
+48,Bayer Leverkusen,2–2,CSKA Moscow,2016/17,2,2
+49,Tottenham Hotspur,1–2,Monaco,2016/17,1,2
+50,Monaco,1–1,Bayer Leverkusen,2016/17,1,1
+51,CSKA Moscow,0–1,Tottenham Hotspur,2016/17,0,1
+52,CSKA Moscow,1–1,Monaco,2016/17,1,1
+53,Bayer Leverkusen,0–0,Tottenham Hotspur,2016/17,0,0
+54,Monaco,3–0,CSKA Moscow,2016/17,3,0
+55,Tottenham Hotspur,0–1,Bayer Leverkusen,2016/17,0,1
+56,CSKA Moscow,1–1,Bayer Leverkusen,2016/17,1,1
+57,Monaco,2–1,Tottenham Hotspur,2016/17,2,1
+58,Bayer Leverkusen,3–0,Monaco,2016/17,3,0
+59,Tottenham Hotspur,3–1,CSKA Moscow,2016/17,3,1
+60,Real Madrid,2–1,Sporting CP,2016/17,2,1
+61,Legia Warsaw,0–6,Borussia Dortmund,2016/17,0,6
+62,Borussia Dortmund,2–2,Real Madrid,2016/17,2,2
+63,Sporting CP,2–0,Legia Warsaw,2016/17,2,0
+64,Sporting CP,1–2,Borussia Dortmund,2016/17,1,2
+65,Real Madrid,5–1,Legia Warsaw,2016/17,5,1
+66,Borussia Dortmund,1–0,Sporting CP,2016/17,1,0
+67,Legia Warsaw,3–3,Real Madrid,2016/17,3,3
+68,Sporting CP,1–2,Real Madrid,2016/17,1,2
+69,Borussia Dortmund,8–4,Legia Warsaw,2016/17,8,4
+70,Real Madrid,2–2,Borussia Dortmund,2016/17,2,2
+71,Legia Warsaw,1–0,Sporting CP,2016/17,1,0
+72,Club Brugge,0–3,Leicester City,2016/17,0,3
+73,Porto,1–1,Copenhagen,2016/17,1,1
+74,Copenhagen,4–0,Club Brugge,2016/17,4,0
+75,Leicester City,1–0,Porto,2016/17,1,0
+76,Leicester City,1–0,Copenhagen,2016/17,1,0
+77,Club Brugge,1–2,Porto,2016/17,1,2
+78,Copenhagen,0–0,Leicester City,2016/17,0,0
+79,Porto,1–0,Club Brugge,2016/17,1,0
+80,Leicester City,2–1,Club Brugge,2016/17,2,1
+81,Copenhagen,0–0,Porto,2016/17,0,0
+82,Club Brugge,0–2,Copenhagen,2016/17,0,2
+83,Porto,5–0,Leicester City,2016/17,5,0
+84,Lyon,3–0,Dinamo Zagreb,2016/17,3,0
+85,Juventus,0–0,Sevilla,2016/17,0,0
+86,Sevilla,1–0,Lyon,2016/17,1,0
+87,Dinamo Zagreb,0–4,Juventus,2016/17,0,4
+88,Dinamo Zagreb,0–1,Sevilla,2016/17,0,1
+89,Lyon,0–1,Juventus,2016/17,0,1
+90,Sevilla,4–0,Dinamo Zagreb,2016/17,4,0
+91,Juventus,1–1,Lyon,2016/17,1,1
+92,Dinamo Zagreb,0–1,Lyon,2016/17,0,1
+93,Sevilla,1–3,Juventus,2016/17,1,3
+94,Lyon,0–0,Sevilla,2016/17,0,0
+95,Juventus,2–0,Dinamo Zagreb,2016/17,2,0
+0,Benfica,1–2,CSKA Moscow,2017/18,1,2
+1,Manchester United,3–0,Basel,2017/18,3,0
+2,Basel,5–0,Benfica,2017/18,5,0
+3,CSKA Moscow,1–4,Manchester United,2017/18,1,4
+4,CSKA Moscow,0–2,Basel,2017/18,0,2
+5,Benfica,0–1,Manchester United,2017/18,0,1
+6,Basel,1–2,CSKA Moscow,2017/18,1,2
+7,Manchester United,2–0,Benfica,2017/18,2,0
+8,CSKA Moscow,2–0,Benfica,2017/18,2,0
+9,Basel,1–0,Manchester United,2017/18,1,0
+10,Benfica,0–2,Basel,2017/18,0,2
+11,Manchester United,2–1,CSKA Moscow,2017/18,2,1
+12,Bayern Munich,3–0,Anderlecht,2017/18,3,0
+13,Celtic,0–5,Paris Saint-Germain,2017/18,0,5
+14,Paris Saint-Germain,3–0,Bayern Munich,2017/18,3,0
+15,Anderlecht,0–3,Celtic,2017/18,0,3
+16,Anderlecht,0–4,Paris Saint-Germain,2017/18,0,4
+17,Bayern Munich,3–0,Celtic,2017/18,3,0
+18,Paris Saint-Germain,5–0,Anderlecht,2017/18,5,0
+19,Celtic,1–2,Bayern Munich,2017/18,1,2
+20,Anderlecht,1–2,Bayern Munich,2017/18,1,2
+21,Paris Saint-Germain,7–1,Celtic,2017/18,7,1
+22,Bayern Munich,3–1,Paris Saint-Germain,2017/18,3,1
+23,Celtic,0–1,Anderlecht,2017/18,0,1
+24,Chelsea,6–0,Qarabağ,2017/18,6,0
+25,Roma,0–0,Atlético Madrid,2017/18,0,0
+26,Qarabağ,1–2,Roma,2017/18,1,2
+27,Atlético Madrid,1–2,Chelsea,2017/18,1,2
+28,Qarabağ,0–0,Atlético Madrid,2017/18,0,0
+29,Chelsea,3–3,Roma,2017/18,3,3
+30,Atlético Madrid,1–1,Qarabağ,2017/18,1,1
+31,Roma,3–0,Chelsea,2017/18,3,0
+32,Qarabağ,0–4,Chelsea,2017/18,0,4
+33,Atlético Madrid,2–0,Roma,2017/18,2,0
+34,Chelsea,1–1,Atlético Madrid,2017/18,1,1
+35,Roma,1–0,Qarabağ,2017/18,1,0
+36,Barcelona,3–0,Juventus,2017/18,3,0
+37,Olympiacos,2–3,Sporting CP,2017/18,2,3
+38,Sporting CP,0–1,Barcelona,2017/18,0,1
+39,Juventus,2–0,Olympiacos,2017/18,2,0
+40,Juventus,2–1,Sporting CP,2017/18,2,1
+41,Barcelona,3–1,Olympiacos,2017/18,3,1
+42,Sporting CP,1–1,Juventus,2017/18,1,1
+43,Olympiacos,0–0,Barcelona,2017/18,0,0
+44,Juventus,0–0,Barcelona,2017/18,0,0
+45,Sporting CP,3–1,Olympiacos,2017/18,3,1
+46,Barcelona,2–0,Sporting CP,2017/18,2,0
+47,Olympiacos,0–2,Juventus,2017/18,0,2
+48,Maribor,1–1,Spartak Moscow,2017/18,1,1
+49,Liverpool,2–2,Sevilla,2017/18,2,2
+50,Sevilla,3–0,Maribor,2017/18,3,0
+51,Spartak Moscow,1–1,Liverpool,2017/18,1,1
+52,Spartak Moscow,5–1,Sevilla,2017/18,5,1
+53,Maribor,0–7,Liverpool,2017/18,0,7
+54,Sevilla,2–1,Spartak Moscow,2017/18,2,1
+55,Liverpool,3–0,Maribor,2017/18,3,0
+56,Spartak Moscow,1–1,Maribor,2017/18,1,1
+57,Sevilla,3–3,Liverpool,2017/18,3,3
+58,Maribor,1–1,Sevilla,2017/18,1,1
+59,Liverpool,7–0,Spartak Moscow,2017/18,7,0
+60,Feyenoord,0–4,Manchester City,2017/18,0,4
+61,Shakhtar Donetsk,2–1,Napoli,2017/18,2,1
+62,Napoli,3–1,Feyenoord,2017/18,3,1
+63,Manchester City,2–0,Shakhtar Donetsk,2017/18,2,0
+64,Manchester City,2–1,Napoli,2017/18,2,1
+65,Feyenoord,1–2,Shakhtar Donetsk,2017/18,1,2
+66,Napoli,2–4,Manchester City,2017/18,2,4
+67,Shakhtar Donetsk,3–1,Feyenoord,2017/18,3,1
+68,Manchester City,1–0,Feyenoord,2017/18,1,0
+69,Napoli,3–0,Shakhtar Donetsk,2017/18,3,0
+70,Feyenoord,2–1,Napoli,2017/18,2,1
+71,Shakhtar Donetsk,2–1,Manchester City,2017/18,2,1
+72,RB Leipzig,1–1,Monaco,2017/18,1,1
+73,Porto,1–3,Beşiktaş,2017/18,1,3
+74,Beşiktaş,2–0,RB Leipzig,2017/18,2,0
+75,Monaco,0–3,Porto,2017/18,0,3
+76,Monaco,1–2,Beşiktaş,2017/18,1,2
+77,RB Leipzig,3–2,Porto,2017/18,3,2
+78,Beşiktaş,1–1,Monaco,2017/18,1,1
+79,Porto,3–1,RB Leipzig,2017/18,3,1
+80,Beşiktaş,1–1,Porto,2017/18,1,1
+81,Monaco,1–4,RB Leipzig,2017/18,1,4
+82,RB Leipzig,1–2,Beşiktaş,2017/18,1,2
+83,Porto,5–2,Monaco,2017/18,5,2
+84,Real Madrid,3–0,APOEL,2017/18,3,0
+85,Tottenham Hotspur,3–1,Borussia Dortmund,2017/18,3,1
+86,Borussia Dortmund,1–3,Real Madrid,2017/18,1,3
+87,APOEL,0–3,Tottenham Hotspur,2017/18,0,3
+88,APOEL,1–1,Borussia Dortmund,2017/18,1,1
+89,Real Madrid,1–1,Tottenham Hotspur,2017/18,1,1
+90,Borussia Dortmund,1–1,APOEL,2017/18,1,1
+91,Tottenham Hotspur,3–1,Real Madrid,2017/18,3,1
+92,APOEL,0–6,Real Madrid,2017/18,0,6
+93,Borussia Dortmund,1–2,Tottenham Hotspur,2017/18,1,2
+94,Real Madrid,3–2,Borussia Dortmund,2017/18,3,2
+95,Tottenham Hotspur,3–0,APOEL,2017/18,3,0
+0,Club Brugge,0–1,Borussia Dortmund,2018/19,0,1
+1,Monaco,1–2,Atlético Madrid,2018/19,1,2
+2,Atlético Madrid,3–1,Club Brugge,2018/19,3,1
+3,Borussia Dortmund,3–0,Monaco,2018/19,3,0
+4,Club Brugge,1–1,Monaco,2018/19,1,1
+5,Borussia Dortmund,4–0,Atlético Madrid,2018/19,4,0
+6,Monaco,0–4,Club Brugge,2018/19,0,4
+7,Atlético Madrid,2–0,Borussia Dortmund,2018/19,2,0
+8,Atlético Madrid,2–0,Monaco,2018/19,2,0
+9,Borussia Dortmund,0–0,Club Brugge,2018/19,0,0
+10,Club Brugge,0–0,Atlético Madrid,2018/19,0,0
+11,Monaco,0–2,Borussia Dortmund,2018/19,0,2
+12,Barcelona,4–0,PSV Eindhoven,2018/19,4,0
+13,Inter Milan,2–1,Tottenham Hotspur,2018/19,2,1
+14,Tottenham Hotspur,2–4,Barcelona,2018/19,2,4
+15,PSV Eindhoven,1–2,Inter Milan,2018/19,1,2
+16,PSV Eindhoven,2–2,Tottenham Hotspur,2018/19,2,2
+17,Barcelona,2–0,Inter Milan,2018/19,2,0
+18,Tottenham Hotspur,2–1,PSV Eindhoven,2018/19,2,1
+19,Inter Milan,1–1,Barcelona,2018/19,1,1
+20,PSV Eindhoven,1–2,Barcelona,2018/19,1,2
+21,Tottenham Hotspur,1–0,Inter Milan,2018/19,1,0
+22,Barcelona,1–1,Tottenham Hotspur,2018/19,1,1
+23,Inter Milan,1–1,PSV Eindhoven,2018/19,1,1
+24,Liverpool,3–2,Paris Saint-Germain,2018/19,3,2
+25,Red Star Belgrade,0–0,Napoli,2018/19,0,0
+26,Paris Saint-Germain,6–1,Red Star Belgrade,2018/19,6,1
+27,Napoli,1–0,Liverpool,2018/19,1,0
+28,Paris Saint-Germain,2–2,Napoli,2018/19,2,2
+29,Liverpool,4–0,Red Star Belgrade,2018/19,4,0
+30,Red Star Belgrade,2–0,Liverpool,2018/19,2,0
+31,Napoli,1–1,Paris Saint-Germain,2018/19,1,1
+32,Paris Saint-Germain,2–1,Liverpool,2018/19,2,1
+33,Napoli,3–1,Red Star Belgrade,2018/19,3,1
+34,Liverpool,1–0,Napoli,2018/19,1,0
+35,Red Star Belgrade,1–4,Paris Saint-Germain,2018/19,1,4
+36,Galatasaray,3–0,Lokomotiv Moscow,2018/19,3,0
+37,Schalke 04,1–1,Porto,2018/19,1,1
+38,Lokomotiv Moscow,0–1,Schalke 04,2018/19,0,1
+39,Porto,1–0,Galatasaray,2018/19,1,0
+40,Lokomotiv Moscow,1–3,Porto,2018/19,1,3
+41,Galatasaray,0–0,Schalke 04,2018/19,0,0
+42,Porto,4–1,Lokomotiv Moscow,2018/19,4,1
+43,Schalke 04,2–0,Galatasaray,2018/19,2,0
+44,Lokomotiv Moscow,2–0,Galatasaray,2018/19,2,0
+45,Porto,3–1,Schalke 04,2018/19,3,1
+46,Galatasaray,2–3,Porto,2018/19,2,3
+47,Schalke 04,1–0,Lokomotiv Moscow,2018/19,1,0
+48,Ajax,3–0,AEK Athens,2018/19,3,0
+49,Benfica,0–2,Bayern Munich,2018/19,0,2
+50,Bayern Munich,1–1,Ajax,2018/19,1,1
+51,AEK Athens,2–3,Benfica,2018/19,2,3
+52,AEK Athens,0–2,Bayern Munich,2018/19,0,2
+53,Ajax,1–0,Benfica,2018/19,1,0
+54,Bayern Munich,2–0,AEK Athens,2018/19,2,0
+55,Benfica,1–1,Ajax,2018/19,1,1
+56,AEK Athens,0–2,Ajax,2018/19,0,2
+57,Bayern Munich,5–1,Benfica,2018/19,5,1
+58,Ajax,3–3,Bayern Munich,2018/19,3,3
+59,Benfica,1–0,AEK Athens,2018/19,1,0
+60,Shakhtar Donetsk,2–2,1899 Hoffenheim,2018/19,2,2
+61,Manchester City,1–2,Lyon,2018/19,1,2
+62,1899 Hoffenheim,1–2,Manchester City,2018/19,1,2
+63,Lyon,2–2,Shakhtar Donetsk,2018/19,2,2
+64,1899 Hoffenheim,3–3,Lyon,2018/19,3,3
+65,Shakhtar Donetsk,0–3,Manchester City,2018/19,0,3
+66,Lyon,2–2,1899 Hoffenheim,2018/19,2,2
+67,Manchester City,6–0,Shakhtar Donetsk,2018/19,6,0
+68,1899 Hoffenheim,2–3,Shakhtar Donetsk,2018/19,2,3
+69,Lyon,2–2,Manchester City,2018/19,2,2
+70,Shakhtar Donetsk,1–1,Lyon,2018/19,1,1
+71,Manchester City,2–1,1899 Hoffenheim,2018/19,2,1
+72,Real Madrid,3–0,Roma,2018/19,3,0
+73,Viktoria Plzeň,2–2,CSKA Moscow,2018/19,2,2
+74,CSKA Moscow,1–0,Real Madrid,2018/19,1,0
+75,Roma,5–0,Viktoria Plzeň,2018/19,5,0
+76,Roma,3–0,CSKA Moscow,2018/19,3,0
+77,Real Madrid,2–1,Viktoria Plzeň,2018/19,2,1
+78,CSKA Moscow,1–2,Roma,2018/19,1,2
+79,Viktoria Plzeň,0–5,Real Madrid,2018/19,0,5
+80,CSKA Moscow,1–2,Viktoria Plzeň,2018/19,1,2
+81,Roma,0–2,Real Madrid,2018/19,0,2
+82,Real Madrid,0–3,CSKA Moscow,2018/19,0,3
+83,Viktoria Plzeň,2–1,Roma,2018/19,2,1
+84,Young Boys,0–3,Manchester United,2018/19,0,3
+85,Valencia,0–2,Juventus,2018/19,0,2
+86,Juventus,3–0,Young Boys,2018/19,3,0
+87,Manchester United,0–0,Valencia,2018/19,0,0
+88,Young Boys,1–1,Valencia,2018/19,1,1
+89,Manchester United,0–1,Juventus,2018/19,0,1
+90,Valencia,3–1,Young Boys,2018/19,3,1
+91,Juventus,1–2,Manchester United,2018/19,1,2
+92,Manchester United,1–0,Young Boys,2018/19,1,0
+93,Juventus,1–0,Valencia,2018/19,1,0
+94,Young Boys,2–1,Juventus,2018/19,2,1
+95,Valencia,2–1,Manchester United,2018/19,2,1
+0,Club Brugge,0–0,Galatasaray,2019/20,0,0
+1,Paris Saint-Germain,3–0,Real Madrid,2019/20,3,0
+2,Real Madrid,2–2,Club Brugge,2019/20,2,2
+3,Galatasaray,0–1,Paris Saint-Germain,2019/20,0,1
+4,Galatasaray,0–1,Real Madrid,2019/20,0,1
+5,Club Brugge,0–5,Paris Saint-Germain,2019/20,0,5
+6,Real Madrid,6–0,Galatasaray,2019/20,6,0
+7,Paris Saint-Germain,1–0,Club Brugge,2019/20,1,0
+8,Galatasaray,1–1,Club Brugge,2019/20,1,1
+9,Real Madrid,2–2,Paris Saint-Germain,2019/20,2,2
+10,Club Brugge,1–3,Real Madrid,2019/20,1,3
+11,Paris Saint-Germain,5–0,Galatasaray,2019/20,5,0
+12,Olympiacos,2–2,Tottenham Hotspur,2019/20,2,2
+13,Bayern Munich,3–0,Red Star Belgrade,2019/20,3,0
+14,Red Star Belgrade,3–1,Olympiacos,2019/20,3,1
+15,Tottenham Hotspur,2–7,Bayern Munich,2019/20,2,7
+16,Tottenham Hotspur,5–0,Red Star Belgrade,2019/20,5,0
+17,Olympiacos,2–3,Bayern Munich,2019/20,2,3
+18,Bayern Munich,2–0,Olympiacos,2019/20,2,0
+19,Red Star Belgrade,0–4,Tottenham Hotspur,2019/20,0,4
+20,Tottenham Hotspur,4–2,Olympiacos,2019/20,4,2
+21,Red Star Belgrade,0–6,Bayern Munich,2019/20,0,6
+22,Olympiacos,1–0,Red Star Belgrade,2019/20,1,0
+23,Bayern Munich,3–1,Tottenham Hotspur,2019/20,3,1
+24,Shakhtar Donetsk,0–3,Manchester City,2019/20,0,3
+25,Dinamo Zagreb,4–0,Atalanta,2019/20,4,0
+26,Atalanta,1–2,Shakhtar Donetsk,2019/20,1,2
+27,Manchester City,2–0,Dinamo Zagreb,2019/20,2,0
+28,Shakhtar Donetsk,2–2,Dinamo Zagreb,2019/20,2,2
+29,Manchester City,5–1,Atalanta,2019/20,5,1
+30,Atalanta,1–1,Manchester City,2019/20,1,1
+31,Dinamo Zagreb,3–3,Shakhtar Donetsk,2019/20,3,3
+32,Manchester City,1–1,Shakhtar Donetsk,2019/20,1,1
+33,Atalanta,2–0,Dinamo Zagreb,2019/20,2,0
+34,Shakhtar Donetsk,0–3,Atalanta,2019/20,0,3
+35,Dinamo Zagreb,1–4,Manchester City,2019/20,1,4
+36,Atlético Madrid,2–2,Juventus,2019/20,2,2
+37,Bayer Leverkusen,1–2,Lokomotiv Moscow,2019/20,1,2
+38,Lokomotiv Moscow,0–2,Atlético Madrid,2019/20,0,2
+39,Juventus,3–0,Bayer Leverkusen,2019/20,3,0
+40,Atlético Madrid,1–0,Bayer Leverkusen,2019/20,1,0
+41,Juventus,2–1,Lokomotiv Moscow,2019/20,2,1
+42,Lokomotiv Moscow,1–2,Juventus,2019/20,1,2
+43,Bayer Leverkusen,2–1,Atlético Madrid,2019/20,2,1
+44,Lokomotiv Moscow,0–2,Bayer Leverkusen,2019/20,0,2
+45,Juventus,1–0,Atlético Madrid,2019/20,1,0
+46,Atlético Madrid,2–0,Lokomotiv Moscow,2019/20,2,0
+47,Bayer Leverkusen,0–2,Juventus,2019/20,0,2
+48,Red Bull Salzburg,6–2,Genk,2019/20,6,2
+49,Napoli,2–0,Liverpool,2019/20,2,0
+50,Genk,0–0,Napoli,2019/20,0,0
+51,Liverpool,4–3,Red Bull Salzburg,2019/20,4,3
+52,Genk,1–4,Liverpool,2019/20,1,4
+53,Red Bull Salzburg,2–3,Napoli,2019/20,2,3
+54,Liverpool,2–1,Genk,2019/20,2,1
+55,Napoli,1–1,Red Bull Salzburg,2019/20,1,1
+56,Genk,1–4,Red Bull Salzburg,2019/20,1,4
+57,Liverpool,1–1,Napoli,2019/20,1,1
+58,Red Bull Salzburg,0–2,Liverpool,2019/20,0,2
+59,Napoli,4–0,Genk,2019/20,4,0
+60,Inter Milan,1–1,Slavia Prague,2019/20,1,1
+61,Borussia Dortmund,0–0,Barcelona,2019/20,0,0
+62,Slavia Prague,0–2,Borussia Dortmund,2019/20,0,2
+63,Barcelona,2–1,Inter Milan,2019/20,2,1
+64,Slavia Prague,1–2,Barcelona,2019/20,1,2
+65,Inter Milan,2–0,Borussia Dortmund,2019/20,2,0
+66,Barcelona,0–0,Slavia Prague,2019/20,0,0
+67,Borussia Dortmund,3–2,Inter Milan,2019/20,3,2
+68,Slavia Prague,1–3,Inter Milan,2019/20,1,3
+69,Barcelona,3–1,Borussia Dortmund,2019/20,3,1
+70,Inter Milan,1–2,Barcelona,2019/20,1,2
+71,Borussia Dortmund,2–1,Slavia Prague,2019/20,2,1
+72,Lyon,1–1,Zenit Saint Petersburg,2019/20,1,1
+73,Benfica,1–2,RB Leipzig,2019/20,1,2
+74,Zenit Saint Petersburg,3–1,Benfica,2019/20,3,1
+75,RB Leipzig,0–2,Lyon,2019/20,0,2
+76,RB Leipzig,2–1,Zenit Saint Petersburg,2019/20,2,1
+77,Benfica,2–1,Lyon,2019/20,2,1
+78,Zenit Saint Petersburg,0–2,RB Leipzig,2019/20,0,2
+79,Lyon,3–1,Benfica,2019/20,3,1
+80,Zenit Saint Petersburg,2–0,Lyon,2019/20,2,0
+81,RB Leipzig,2–2,Benfica,2019/20,2,2
+82,Benfica,3–0,Zenit Saint Petersburg,2019/20,3,0
+83,Lyon,2–2,RB Leipzig,2019/20,2,2
+84,Ajax,3–0,Lille,2019/20,3,0
+85,Chelsea,0–1,Valencia,2019/20,0,1
+86,Valencia,0–3,Ajax,2019/20,0,3
+87,Lille,1–2,Chelsea,2019/20,1,2
+88,Ajax,0–1,Chelsea,2019/20,0,1
+89,Lille,1–1,Valencia,2019/20,1,1
+90,Valencia,4–1,Lille,2019/20,4,1
+91,Chelsea,4–4,Ajax,2019/20,4,4
+92,Valencia,2–2,Chelsea,2019/20,2,2
+93,Lille,0–2,Ajax,2019/20,0,2
+94,Ajax,0–1,Valencia,2019/20,0,1
+95,Chelsea,2–1,Lille,2019/20,2,1
+0,Red Bull Salzburg,2–2,Lokomotiv Moscow,2020/21,2,2
+1,Bayern Munich,4–0,Atlético Madrid,2020/21,4,0
+2,Lokomotiv Moscow,1–2,Bayern Munich,2020/21,1,2
+3,Atlético Madrid,3–2,Red Bull Salzburg,2020/21,3,2
+4,Lokomotiv Moscow,1–1,Atlético Madrid,2020/21,1,1
+5,Red Bull Salzburg,2–6,Bayern Munich,2020/21,2,6
+6,Atlético Madrid,0–0,Lokomotiv Moscow,2020/21,0,0
+7,Bayern Munich,3–1,Red Bull Salzburg,2020/21,3,1
+8,Lokomotiv Moscow,1–3,Red Bull Salzburg,2020/21,1,3
+9,Atlético Madrid,1–1,Bayern Munich,2020/21,1,1
+10,Bayern Munich,2–0,Lokomotiv Moscow,2020/21,2,0
+11,Red Bull Salzburg,0–2,Atlético Madrid,2020/21,0,2
+12,Real Madrid,2–3,Shakhtar Donetsk,2020/21,2,3
+13,Inter Milan,2–2,Borussia Mönchengladbach,2020/21,2,2
+14,Shakhtar Donetsk,0–0,Inter Milan,2020/21,0,0
+15,Borussia Mönchengladbach,2–2,Real Madrid,2020/21,2,2
+16,Shakhtar Donetsk,0–6,Borussia Mönchengladbach,2020/21,0,6
+17,Real Madrid,3–2,Inter Milan,2020/21,3,2
+18,Borussia Mönchengladbach,4–0,Shakhtar Donetsk,2020/21,4,0
+19,Inter Milan,0–2,Real Madrid,2020/21,0,2
+20,Shakhtar Donetsk,2–0,Real Madrid,2020/21,2,0
+21,Borussia Mönchengladbach,2–3,Inter Milan,2020/21,2,3
+22,Real Madrid,2–0,Borussia Mönchengladbach,2020/21,2,0
+23,Inter Milan,0–0,Shakhtar Donetsk,2020/21,0,0
+24,Manchester City,3–1,Porto,2020/21,3,1
+25,Olympiacos,1–0,Marseille,2020/21,1,0
+26,Porto,2–0,Olympiacos,2020/21,2,0
+27,Marseille,0–3,Manchester City,2020/21,0,3
+28,Manchester City,3–0,Olympiacos,2020/21,3,0
+29,Porto,3–0,Marseille,2020/21,3,0
+30,Olympiacos,0–1,Manchester City,2020/21,0,1
+31,Marseille,0–2,Porto,2020/21,0,2
+32,Marseille,2–1,Olympiacos,2020/21,2,1
+33,Porto,0–0,Manchester City,2020/21,0,0
+34,Manchester City,3–0,Marseille,2020/21,3,0
+35,Olympiacos,0–2,Porto,2020/21,0,2
+36,Ajax,0–1,Liverpool,2020/21,0,1
+37,Midtjylland,0–4,Atalanta,2020/21,0,4
+38,Liverpool,2–0,Midtjylland,2020/21,2,0
+39,Atalanta,2–2,Ajax,2020/21,2,2
+40,Midtjylland,1–2,Ajax,2020/21,1,2
+41,Atalanta,0–5,Liverpool,2020/21,0,5
+42,Liverpool,0–2,Atalanta,2020/21,0,2
+43,Ajax,3–1,Midtjylland,2020/21,3,1
+44,Liverpool,1–0,Ajax,2020/21,1,0
+45,Atalanta,1–1,Midtjylland,2020/21,1,1
+46,Ajax,0–1,Atalanta,2020/21,0,1
+47,Midtjylland,1–1,Liverpool,2020/21,1,1
+48,Chelsea,0–0,Sevilla,2020/21,0,0
+49,Rennes,1–1,Krasnodar,2020/21,1,1
+50,Krasnodar,0–4,Chelsea,2020/21,0,4
+51,Sevilla,1–0,Rennes,2020/21,1,0
+52,Sevilla,3–2,Krasnodar,2020/21,3,2
+53,Chelsea,3–0,Rennes,2020/21,3,0
+54,Krasnodar,1–2,Sevilla,2020/21,1,2
+55,Rennes,1–2,Chelsea,2020/21,1,2
+56,Krasnodar,1–0,Rennes,2020/21,1,0
+57,Sevilla,0–4,Chelsea,2020/21,0,4
+58,Chelsea,1–1,Krasnodar,2020/21,1,1
+59,Rennes,1–3,Sevilla,2020/21,1,3
+60,Zenit Saint Petersburg,1–2,Club Brugge,2020/21,1,2
+61,Lazio,3–1,Borussia Dortmund,2020/21,3,1
+62,Borussia Dortmund,2–0,Zenit Saint Petersburg,2020/21,2,0
+63,Club Brugge,1–1,Lazio,2020/21,1,1
+64,Zenit Saint Petersburg,1–1,Lazio,2020/21,1,1
+65,Club Brugge,0–3,Borussia Dortmund,2020/21,0,3
+66,Lazio,3–1,Zenit Saint Petersburg,2020/21,3,1
+67,Borussia Dortmund,3–0,Club Brugge,2020/21,3,0
+68,Borussia Dortmund,1–1,Lazio,2020/21,1,1
+69,Club Brugge,3–0,Zenit Saint Petersburg,2020/21,3,0
+70,Zenit Saint Petersburg,1–2,Borussia Dortmund,2020/21,1,2
+71,Lazio,2–2,Club Brugge,2020/21,2,2
+72,Dynamo Kyiv,0–2,Juventus,2020/21,0,2
+73,Barcelona,5–1,Ferencváros,2020/21,5,1
+74,Juventus,0–2,Barcelona,2020/21,0,2
+75,Ferencváros,2–2,Dynamo Kyiv,2020/21,2,2
+76,Barcelona,2–1,Dynamo Kyiv,2020/21,2,1
+77,Ferencváros,1–4,Juventus,2020/21,1,4
+78,Dynamo Kyiv,0–4,Barcelona,2020/21,0,4
+79,Juventus,2–1,Ferencváros,2020/21,2,1
+80,Juventus,3–0,Dynamo Kyiv,2020/21,3,0
+81,Ferencváros,0–3,Barcelona,2020/21,0,3
+82,Barcelona,0–3,Juventus,2020/21,0,3
+83,Dynamo Kyiv,1–0,Ferencváros,2020/21,1,0
+84,Paris Saint-Germain,1–2,Manchester United,2020/21,1,2
+85,RB Leipzig,2–0,İstanbul Başakşehir,2020/21,2,0
+86,İstanbul Başakşehir,0–2,Paris Saint-Germain,2020/21,0,2
+87,Manchester United,5–0,RB Leipzig,2020/21,5,0
+88,İstanbul Başakşehir,2–1,Manchester United,2020/21,2,1
+89,RB Leipzig,2–1,Paris Saint-Germain,2020/21,2,1
+90,Manchester United,4–1,İstanbul Başakşehir,2020/21,4,1
+91,Paris Saint-Germain,1–0,RB Leipzig,2020/21,1,0
+92,İstanbul Başakşehir,3–4,RB Leipzig,2020/21,3,4
+93,Manchester United,1–3,Paris Saint-Germain,2020/21,1,3
+94,Paris Saint-Germain,5–1,İstanbul Başakşehir,2020/21,5,1
+95,RB Leipzig,3–2,Manchester United,2020/21,3,2
+0,Manchester City,6–3,RB Leipzig,2021/22,6,3
+1,Club Brugge,1–1,Paris Saint-Germain,2021/22,1,1
+2,RB Leipzig,1–2,Club Brugge,2021/22,1,2
+3,Paris Saint-Germain,2–0,Manchester City,2021/22,2,0
+4,Club Brugge,1–5,Manchester City,2021/22,1,5
+5,Paris Saint-Germain,3–2,RB Leipzig,2021/22,3,2
+6,RB Leipzig,2–2,Paris Saint-Germain,2021/22,2,2
+7,Manchester City,4–1,Club Brugge,2021/22,4,1
+8,Manchester City,2–1,Paris Saint-Germain,2021/22,2,1
+9,Club Brugge,0–5,RB Leipzig,2021/22,0,5
+10,RB Leipzig,2–1,Manchester City,2021/22,2,1
+11,Paris Saint-Germain,4–1,Club Brugge,2021/22,4,1
+12,Liverpool,3–2,Milan,2021/22,3,2
+13,Atlético Madrid,0–0,Porto,2021/22,0,0
+14,Milan,1–2,Atlético Madrid,2021/22,1,2
+15,Porto,1–5,Liverpool,2021/22,1,5
+16,Atlético Madrid,2–3,Liverpool,2021/22,2,3
+17,Porto,1–0,Milan,2021/22,1,0
+18,Milan,1–1,Porto,2021/22,1,1
+19,Liverpool,2–0,Atlético Madrid,2021/22,2,0
+20,Liverpool,2–0,Porto,2021/22,2,0
+21,Atlético Madrid,0–1,Milan,2021/22,0,1
+22,Porto,1–3,Atlético Madrid,2021/22,1,3
+23,Milan,1–2,Liverpool,2021/22,1,2
+24,Beşiktaş,1–2,Borussia Dortmund,2021/22,1,2
+25,Sporting CP,1–5,Ajax,2021/22,1,5
+26,Ajax,2–0,Beşiktaş,2021/22,2,0
+27,Borussia Dortmund,1–0,Sporting CP,2021/22,1,0
+28,Beşiktaş,1–4,Sporting CP,2021/22,1,4
+29,Ajax,4–0,Borussia Dortmund,2021/22,4,0
+30,Borussia Dortmund,1–3,Ajax,2021/22,1,3
+31,Sporting CP,4–0,Beşiktaş,2021/22,4,0
+32,Beşiktaş,1–2,Ajax,2021/22,1,2
+33,Sporting CP,3–1,Borussia Dortmund,2021/22,3,1
+34,Ajax,4–2,Sporting CP,2021/22,4,2
+35,Borussia Dortmund,5–0,Beşiktaş,2021/22,5,0
+36,Sheriff Tiraspol,2–0,Shakhtar Donetsk,2021/22,2,0
+37,Inter Milan,0–1,Real Madrid,2021/22,0,1
+38,Shakhtar Donetsk,0–0,Inter Milan,2021/22,0,0
+39,Real Madrid,1–2,Sheriff Tiraspol,2021/22,1,2
+40,Shakhtar Donetsk,0–5,Real Madrid,2021/22,0,5
+41,Inter Milan,3–1,Sheriff Tiraspol,2021/22,3,1
+42,Real Madrid,2–1,Shakhtar Donetsk,2021/22,2,1
+43,Sheriff Tiraspol,1–3,Inter Milan,2021/22,1,3
+44,Inter Milan,2–0,Shakhtar Donetsk,2021/22,2,0
+45,Sheriff Tiraspol,0–3,Real Madrid,2021/22,0,3
+46,Shakhtar Donetsk,1–1,Sheriff Tiraspol,2021/22,1,1
+47,Real Madrid,2–0,Inter Milan,2021/22,2,0
+48,Barcelona,0–3,Bayern Munich,2021/22,0,3
+49,Dynamo Kyiv,0–0,Benfica,2021/22,0,0
+50,Benfica,3–0,Barcelona,2021/22,3,0
+51,Bayern Munich,5–0,Dynamo Kyiv,2021/22,5,0
+52,Barcelona,1–0,Dynamo Kyiv,2021/22,1,0
+53,Benfica,0–4,Bayern Munich,2021/22,0,4
+54,Bayern Munich,5–2,Benfica,2021/22,5,2
+55,Dynamo Kyiv,0–1,Barcelona,2021/22,0,1
+56,Dynamo Kyiv,1–2,Bayern Munich,2021/22,1,2
+57,Barcelona,0–0,Benfica,2021/22,0,0
+58,Bayern Munich,3–0,Barcelona,2021/22,3,0
+59,Benfica,2–0,Dynamo Kyiv,2021/22,2,0
+60,Young Boys,2–1,Manchester United,2021/22,2,1
+61,Villarreal,2–2,Atalanta,2021/22,2,2
+62,Atalanta,1–0,Young Boys,2021/22,1,0
+63,Manchester United,2–1,Villarreal,2021/22,2,1
+64,Manchester United,3–2,Atalanta,2021/22,3,2
+65,Young Boys,1–4,Villarreal,2021/22,1,4
+66,Atalanta,2–2,Manchester United,2021/22,2,2
+67,Villarreal,2–0,Young Boys,2021/22,2,0
+68,Villarreal,0–2,Manchester United,2021/22,0,2
+69,Young Boys,3–3,Atalanta,2021/22,3,3
+70,Manchester United,1–1,Young Boys,2021/22,1,1
+71,Atalanta,2–3,Villarreal,2021/22,2,3
+72,Sevilla,1–1,Red Bull Salzburg,2021/22,1,1
+73,Lille,0–0,VfL Wolfsburg,2021/22,0,0
+74,Red Bull Salzburg,2–1,Lille,2021/22,2,1
+75,VfL Wolfsburg,1–1,Sevilla,2021/22,1,1
+76,Red Bull Salzburg,3–1,VfL Wolfsburg,2021/22,3,1
+77,Lille,0–0,Sevilla,2021/22,0,0
+78,VfL Wolfsburg,2–1,Red Bull Salzburg,2021/22,2,1
+79,Sevilla,1–2,Lille,2021/22,1,2
+80,Sevilla,2–0,VfL Wolfsburg,2021/22,2,0
+81,Lille,1–0,Red Bull Salzburg,2021/22,1,0
+82,VfL Wolfsburg,1–3,Lille,2021/22,1,3
+83,Red Bull Salzburg,1–0,Sevilla,2021/22,1,0
+84,Chelsea,1–0,Zenit Saint Petersburg,2021/22,1,0
+85,Malmö FF,0–3,Juventus,2021/22,0,3
+86,Zenit Saint Petersburg,4–0,Malmö FF,2021/22,4,0
+87,Juventus,1–0,Chelsea,2021/22,1,0
+88,Zenit Saint Petersburg,0–1,Juventus,2021/22,0,1
+89,Chelsea,4–0,Malmö FF,2021/22,4,0
+90,Malmö FF,0–1,Chelsea,2021/22,0,1
+91,Juventus,4–2,Zenit Saint Petersburg,2021/22,4,2
+92,Chelsea,4–0,Juventus,2021/22,4,0
+93,Malmö FF,1–1,Zenit Saint Petersburg,2021/22,1,1
+94,Zenit Saint Petersburg,3–3,Chelsea,2021/22,3,3
+95,Juventus,1–0,Malmö FF,2021/22,1,0
+0,Ajax,4–0,Rangers,2022/23,4,0
+1,Napoli,4–1,Liverpool,2022/23,4,1
+2,Liverpool,2–1,Ajax,2022/23,2,1
+3,Rangers,0–3,Napoli,2022/23,0,3
+4,Liverpool,2–0,Rangers,2022/23,2,0
+5,Ajax,1–6,Napoli,2022/23,1,6
+6,Napoli,4–2,Ajax,2022/23,4,2
+7,Rangers,1–7,Liverpool,2022/23,1,7
+8,Napoli,3–0,Rangers,2022/23,3,0
+9,Ajax,0–3,Liverpool,2022/23,0,3
+10,Liverpool,2–0,Napoli,2022/23,2,0
+11,Rangers,1–3,Ajax,2022/23,1,3
+12,Atlético Madrid,2–1,Porto,2022/23,2,1
+13,Club Brugge,1–0,Bayer Leverkusen,2022/23,1,0
+14,Porto,0–4,Club Brugge,2022/23,0,4
+15,Bayer Leverkusen,2–0,Atlético Madrid,2022/23,2,0
+16,Porto,2–0,Bayer Leverkusen,2022/23,2,0
+17,Club Brugge,2–0,Atlético Madrid,2022/23,2,0
+18,Atlético Madrid,0–0,Club Brugge,2022/23,0,0
+19,Bayer Leverkusen,0–3,Porto,2022/23,0,3
+20,Club Brugge,0–4,Porto,2022/23,0,4
+21,Atlético Madrid,2–2,Bayer Leverkusen,2022/23,2,2
+22,Porto,2–1,Atlético Madrid,2022/23,2,1
+23,Bayer Leverkusen,0–0,Club Brugge,2022/23,0,0
+24,Barcelona,5–1,Viktoria Plzeň,2022/23,5,1
+25,Inter Milan,0–2,Bayern Munich,2022/23,0,2
+26,Viktoria Plzeň,0–2,Inter Milan,2022/23,0,2
+27,Bayern Munich,2–0,Barcelona,2022/23,2,0
+28,Bayern Munich,5–0,Viktoria Plzeň,2022/23,5,0
+29,Inter Milan,1–0,Barcelona,2022/23,1,0
+30,Barcelona,3–3,Inter Milan,2022/23,3,3
+31,Viktoria Plzeň,2–4,Bayern Munich,2022/23,2,4
+32,Inter Milan,4–0,Viktoria Plzeň,2022/23,4,0
+33,Barcelona,0–3,Bayern Munich,2022/23,0,3
+34,Bayern Munich,2–0,Inter Milan,2022/23,2,0
+35,Viktoria Plzeň,2–4,Barcelona,2022/23,2,4
+36,Eintracht Frankfurt,0–3,Sporting CP,2022/23,0,3
+37,Tottenham Hotspur,2–0,Marseille,2022/23,2,0
+38,Sporting CP,2–0,Tottenham Hotspur,2022/23,2,0
+39,Marseille,0–1,Eintracht Frankfurt,2022/23,0,1
+40,Marseille,4–1,Sporting CP,2022/23,4,1
+41,Eintracht Frankfurt,0–0,Tottenham Hotspur,2022/23,0,0
+42,Tottenham Hotspur,3–2,Eintracht Frankfurt,2022/23,3,2
+43,Sporting CP,0–2,Marseille,2022/23,0,2
+44,Tottenham Hotspur,1–1,Sporting CP,2022/23,1,1
+45,Eintracht Frankfurt,2–1,Marseille,2022/23,2,1
+46,Sporting CP,1–2,Eintracht Frankfurt,2022/23,1,2
+47,Marseille,1–2,Tottenham Hotspur,2022/23,1,2
+48,Dinamo Zagreb,1–0,Chelsea,2022/23,1,0
+49,Red Bull Salzburg,1–1,Milan,2022/23,1,1
+50,Milan,3–1,Dinamo Zagreb,2022/23,3,1
+51,Chelsea,1–1,Red Bull Salzburg,2022/23,1,1
+52,Red Bull Salzburg,1–0,Dinamo Zagreb,2022/23,1,0
+53,Chelsea,3–0,Milan,2022/23,3,0
+54,Dinamo Zagreb,1–1,Red Bull Salzburg,2022/23,1,1
+55,Milan,0–2,Chelsea,2022/23,0,2
+56,Red Bull Salzburg,1–2,Chelsea,2022/23,1,2
+57,Dinamo Zagreb,0–4,Milan,2022/23,0,4
+58,Chelsea,2–1,Dinamo Zagreb,2022/23,2,1
+59,Milan,4–0,Red Bull Salzburg,2022/23,4,0
+60,Celtic,0–3,Real Madrid,2022/23,0,3
+61,RB Leipzig,1–4,Shakhtar Donetsk,2022/23,1,4
+62,Shakhtar Donetsk,1–1,Celtic,2022/23,1,1
+63,Real Madrid,2–0,RB Leipzig,2022/23,2,0
+64,RB Leipzig,3–1,Celtic,2022/23,3,1
+65,Real Madrid,2–1,Shakhtar Donetsk,2022/23,2,1
+66,Shakhtar Donetsk,1–1,Real Madrid,2022/23,1,1
+67,Celtic,0–2,RB Leipzig,2022/23,0,2
+68,Celtic,1–1,Shakhtar Donetsk,2022/23,1,1
+69,RB Leipzig,3–2,Real Madrid,2022/23,3,2
+70,Real Madrid,5–1,Celtic,2022/23,5,1
+71,Shakhtar Donetsk,0–4,RB Leipzig,2022/23,0,4
+72,Borussia Dortmund,3–0,Copenhagen,2022/23,3,0
+73,Sevilla,0–4,Manchester City,2022/23,0,4
+74,Manchester City,2–1,Borussia Dortmund,2022/23,2,1
+75,Copenhagen,0–0,Sevilla,2022/23,0,0
+76,Manchester City,5–0,Copenhagen,2022/23,5,0
+77,Sevilla,1–4,Borussia Dortmund,2022/23,1,4
+78,Copenhagen,0–0,Manchester City,2022/23,0,0
+79,Borussia Dortmund,1–1,Sevilla,2022/23,1,1
+80,Sevilla,3–0,Copenhagen,2022/23,3,0
+81,Borussia Dortmund,0–0,Manchester City,2022/23,0,0
+82,Manchester City,3–1,Sevilla,2022/23,3,1
+83,Copenhagen,1–1,Borussia Dortmund,2022/23,1,1
+84,Paris Saint-Germain,2–1,Juventus,2022/23,2,1
+85,Benfica,2–0,Maccabi Haifa,2022/23,2,0
+86,Juventus,1–2,Benfica,2022/23,1,2
+87,Maccabi Haifa,1–3,Paris Saint-Germain,2022/23,1,3
+88,Juventus,3–1,Maccabi Haifa,2022/23,3,1
+89,Benfica,1–1,Paris Saint-Germain,2022/23,1,1
+90,Maccabi Haifa,2–0,Juventus,2022/23,2,0
+91,Paris Saint-Germain,1–1,Benfica,2022/23,1,1
+92,Paris Saint-Germain,7–2,Maccabi Haifa,2022/23,7,2
+93,Benfica,4–3,Juventus,2022/23,4,3
+94,Juventus,1–2,Paris Saint-Germain,2022/23,1,2
+95,Maccabi Haifa,1–6,Benfica,2022/23,1,6
